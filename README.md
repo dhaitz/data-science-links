@@ -1,7 +1,7 @@
 # data-science-links
 Links to great data science articles, videos, ...
 
-## Contents
+**Contents**
 
 - [General Advice on Data Science and IT](#general-advice-on-data-science-and-it)
 - [Agile Practices for Data Science](#agile-practices-for-data-science)
