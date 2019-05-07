@@ -16,6 +16,7 @@ Links to great data science articles, videos, ...
 * [What They Don't Tell You About Data Science 1: You Are a Software Engineer First](http://nadbordrozd.github.io/blog/2017/12/05/what-they-dont-tell-you-about-data-science-1/) - Highlighting the importance of software engineering for data scientists.
 * [Why Data Science Teams Need Generalists, Not Specialists](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists) - As data science is mostly about prototyping, iterating and learning on-the-fly, generalists are better suited than specialists.
 * [Bridging the Gap: from Data Science to Production](https://florianwilhelm.info/2018/07/bridging_the_gap_from_ds_to_prod/)
+* [Compilation of Advice for New and Aspiring Data Scientists](https://towardsdatascience.com/compilation-of-advice-for-new-and-aspiring-data-scientists-5ea75a3925c4)
 
 
 ## Agile Practices for Data Science
