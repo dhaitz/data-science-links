@@ -47,6 +47,7 @@ Links to great data science articles, videos, ...
 How internal self-awareness, external self-awareness, and personal accountability can improve team dynamics.
 * [How to Develop the Five Soft Skills That Will Make You a Great Analyst](https://mode.com/blog/how-to-develop-the-five-soft-skills-that-will-make-you-a-great-analyst) - 5 points with advice on self-evaluation and improvement.
 * [Presentation Tips for Data Professionals](https://data36.com/presentation-tips-for-data-professionals/) - Some general advice on presentation content, design and delivery (not necessarily restricted to data science).
+* [How to Work With Stakeholders as a Data Scientist](https://towardsdatascience.com/how-to-work-with-stakeholders-as-a-data-scientist-13a1769c8152)
 
 
 ## Technical and Machine Learning Advice
