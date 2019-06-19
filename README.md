@@ -42,7 +42,7 @@ Links to great data science articles, videos, ...
 * [Your Data Science Project Will Fail Unless It Meets These 3 Conditions](https://towardsdatascience.com/3-conditions-for-data-science-project-success-e31d3a798ec2) - Rules for successful data science projects in a corporate environment.
 
 
-## About Social Skills
+## Soft Skills
 * [To Improve Your Team, First Work on Yourself](https://hbr.org/2019/01/to-improve-your-team-first-work-on-yourself) - 
 How internal self-awareness, external self-awareness, and personal accountability can improve team dynamics.
 * [How to Develop the Five Soft Skills That Will Make You a Great Analyst](https://mode.com/blog/how-to-develop-the-five-soft-skills-that-will-make-you-a-great-analyst) - 5 points with advice on self-evaluation and improvement.
@@ -50,7 +50,12 @@ How internal self-awareness, external self-awareness, and personal accountabilit
 * [How to Work With Stakeholders as a Data Scientist](https://towardsdatascience.com/how-to-work-with-stakeholders-as-a-data-scientist-13a1769c8152)
 
 
+## Business Acumen
+* [10 Reads for Data Scientists Getting Started with Business Models](https://www.conordewey.com/posts/2019/5/17/10-reads-for-data-scientists-getting-started-with-business-models) - Great collection of articles
+
+
 ## Technical and Machine Learning Advice
 * [How becoming not a data scientist made me a better data scientist](https://docs.google.com/presentation/d/1jk-qrVKCb0-P9P4BVzH75gcVhp5Dy5n1CP_gKnHMNY0/edit#slide=id.p) - Coding advice for data scientists by Joel Grus.
 * [Machine Learning: The High Interest Credit Card of Technical Debt ](https://ai.google/research/pubs/pub43146) - The famous Google paper on technical debt in machine learning systems.
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) - 43 rules for implementing ML products.
+* [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/publication/software-engineering-for-machine-learning-a-case-study/) - Survey results from Microsoft's AI practicioners, including best practices.
