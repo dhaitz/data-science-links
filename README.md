@@ -12,15 +12,15 @@ Links to great data science articles, videos, ...
 
 
 ## General Advice on Data Science and IT
-* [Don't Call Yourself A Programmer, And Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) - Career advice for IT.
-* [What They Don't Tell You About Data Science 1: You Are a Software Engineer First](http://nadbordrozd.github.io/blog/2017/12/05/what-they-dont-tell-you-about-data-science-1/) - Highlighting the importance of software engineering for data scientists.
+* [Don't Call Yourself A Programmer, And Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) - Real-world career advice for engineers and IT professionals. Highlights the importance of communication, negotiating and self-marketing.
+* [What They Don't Tell You About Data Science 1: You Are a Software Engineer First](http://nadbordrozd.github.io/blog/2017/12/05/what-they-dont-tell-you-about-data-science-1/) - Highlighting the importance of software engineering skills for data scientists.
 * [Why Data Science Teams Need Generalists, Not Specialists](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists) - As data science is mostly about prototyping, iterating and learning on-the-fly, generalists are better suited than specialists.
-* [Bridging the Gap: from Data Science to Production](https://florianwilhelm.info/2018/07/bridging_the_gap_from_ds_to_prod/)
-* [Compilation of Advice for New and Aspiring Data Scientists](https://towardsdatascience.com/compilation-of-advice-for-new-and-aspiring-data-scientists-5ea75a3925c4)
+* [Bridging the Gap: from Data Science to Production](https://florianwilhelm.info/2018/07/bridging_the_gap_from_ds_to_prod/) - Advice on how to best bridge the "deployment gap" in data science.
+* [Compilation of Advice for New and Aspiring Data Scientists](https://towardsdatascience.com/compilation-of-advice-for-new-and-aspiring-data-scientists-5ea75a3925c4) - Another great collection of advice.
 
 
 ## Agile Practices for Data Science
-* [Evolution from #NoProjects to Continuous Digital](https://www.youtube.com/watch?v=eeK1-9QxLGE) - one of many great talks by Allan Kelly, one of the figureheads of the #beyondprojects movement. He explains why the project model leads to countless problems in today's fast-paced digital economy and suggests a better solution.
+* [Evolution from #NoProjects to Continuous Digital](https://www.youtube.com/watch?v=eeK1-9QxLGE) - One of many great talks by Allan Kelly, one of the figureheads of the #beyondprojects movement. He explains why the project model leads to countless problems in today's fast-paced digital economy and suggests a better solution.
 * [A manifesto for Agile data science](https://www.oreilly.com/ideas/a-manifesto-for-agile-data-science) - Seven principles to help adopt agile practices in data science.
 * [Datenprodukte bauen mit Agile Data Science](https://www.inovex.de/fileadmin/files/Vortraege/2018/datenprodukte-bauen-mit-agile-data-science-tempich-29.06.2018.pdf) - "Organisatorische Rahmenbedingungen für Datenprodukte auf Basis von künstlicher Intelligenz".
 * [What is Minimum Viable (Data) Product?](https://medium.com/idealo-tech-blog/what-is-minimum-viable-data-product-49269e338d85) - Adapting the agile concept of a Minimum Viable Product (MVP) for data science.
@@ -32,7 +32,7 @@ Links to great data science articles, videos, ...
 * [Lessons learned in my first year as a data scientist](http://tommyblanchard.com/lessons-learned-in-my-first-year-as-a-data-scientist) - Lessons learned about data science projects in a business environment.
 * [The First Year — A Retrospective Into My First Real Job as a Data Scientist](https://medium.com/@benjaminjiang/the-first-year-a-retrospect-into-my-first-real-job-as-a-data-scientist-d74c3179b461) - Some more lessons learned ("The most important thing a data scientist has to do is to get buy-in from management").
 * [Advice for New Data Scientists](https://medium.com/airbnb-engineering/new-data-scientists-tips-for-success-5f898b6a33f3) - 4 general tips for new data scientists.
-* [Lessons from My First Two Years of AI Research](http://web.mit.edu/tslvr/www/lessons_two_years.html).
+* [Lessons from My First Two Years of AI Research](http://web.mit.edu/tslvr/www/lessons_two_years.html)
 * [Top 5 Mistakes of Greenhorn Data Scientists](https://towardsdatascience.com/top-5-mistakes-of-greenhorn-data-scientists-90fa26201d51)
 
 
@@ -47,11 +47,11 @@ Links to great data science articles, videos, ...
 How internal self-awareness, external self-awareness, and personal accountability can improve team dynamics.
 * [How to Develop the Five Soft Skills That Will Make You a Great Analyst](https://mode.com/blog/how-to-develop-the-five-soft-skills-that-will-make-you-a-great-analyst) - 5 points with advice on self-evaluation and improvement.
 * [Presentation Tips for Data Professionals](https://data36.com/presentation-tips-for-data-professionals/) - Some general advice on presentation content, design and delivery (not necessarily restricted to data science).
-* [How to Work With Stakeholders as a Data Scientist](https://towardsdatascience.com/how-to-work-with-stakeholders-as-a-data-scientist-13a1769c8152)
+* [How to Work With Stakeholders as a Data Scientist](https://towardsdatascience.com/how-to-work-with-stakeholders-as-a-data-scientist-13a1769c8152) - On communication, expectation management and other important topics when working with stakeholders.
 
 
 ## Business Acumen
-* [10 Reads for Data Scientists Getting Started with Business Models](https://www.conordewey.com/posts/2019/5/17/10-reads-for-data-scientists-getting-started-with-business-models) - Great collection of articles
+* [10 Reads for Data Scientists Getting Started with Business Models](https://www.conordewey.com/posts/2019/5/17/10-reads-for-data-scientists-getting-started-with-business-models) - Great collection of articles on business topics.
 
 
 ## Technical and Machine Learning Advice
