@@ -1,5 +1,5 @@
 # data-science-links
-Links to great data science articles, videos, ...
+Links to great data science articles or videos. Feel free to add stuff via PR.
 
 **Contents**
 
