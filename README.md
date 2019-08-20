@@ -49,10 +49,11 @@ How internal self-awareness, external self-awareness, and personal accountabilit
 * [How to Work With Stakeholders as a Data Scientist](https://towardsdatascience.com/how-to-work-with-stakeholders-as-a-data-scientist-13a1769c8152) - On communication, expectation management and other important topics when working with stakeholders.
 
 
-## Presentaions Skills
+## Presentation Skills
 * [Presentation Tips for Data Professionals](https://data36.com/presentation-tips-for-data-professionals/) - Some general advice on presentation content, design and delivery (not necessarily restricted to data science).
 * [On Presentations](https://www.beautiful.ai/player/-LiSV45O9K1sE8uv5oMj/On-Presentations) – Practice your storytelling skills to engage your audience.
 * [Fix Your Really Bad PowerPoint](https://www.slideshare.net/slidecomet/fix-your-really-bad-powerpoint-slidecomet-based-on-an-ebook-by-sethgodin) and [7 tips to create visual presentations](https://www.slideshare.net/EmilandDC/7-tips-to-create-visual-presentations/42-TIPSTools) - About slide design
+* [What makes a good talk?](http://www.neurotheory.ox.ac.uk/~timv/pub/TalkTips.pdf) – A one-page compilation of presentation advice
 
 
 ## Business Acumen
