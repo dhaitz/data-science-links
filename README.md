@@ -34,6 +34,7 @@ Links to great data science articles or videos. Feel free to add stuff via PR.
 * [Advice for New Data Scientists](https://medium.com/airbnb-engineering/new-data-scientists-tips-for-success-5f898b6a33f3) - 4 general tips for new data scientists.
 * [Lessons from My First Two Years of AI Research](http://web.mit.edu/tslvr/www/lessons_two_years.html)
 * [Top 5 Mistakes of Greenhorn Data Scientists](https://towardsdatascience.com/top-5-mistakes-of-greenhorn-data-scientists-90fa26201d51)
+* [How I increased my impact as a data scientist with one question](https://towardsdatascience.com/how-i-increased-my-impact-as-a-data-scientist-with-one-question-d0417a1b10cb) - “Imagine we’ve done all the hard work and developed a perfect solution. What will you do with it?”
 
 
 ## Navigating Corporate Politics
