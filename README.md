@@ -3,7 +3,8 @@ Links to great data science articles or videos. Feel free to add stuff via PR.
 
 **Contents**
 
-- [General Advice on Data Science and IT](#general-advice-on-data-science-and-it)
+- [General Advice on Data Science](#general-advice-on-data-science)
+- [Career Advice for Data Science and IT](#career-advice-for-data-science-and-it)
 - [Agile Practices for Data Science](#agile-practices-for-data-science)
 - [Lessons Learned](#lessons-learned)
 - [Navigating Corporate Politics](#navigating-corporate-politics)
@@ -12,11 +13,15 @@ Links to great data science articles or videos. Feel free to add stuff via PR.
 
 
 ## General Advice on Data Science and IT
-* [Don't Call Yourself A Programmer, And Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) - Real-world career advice for engineers and IT professionals. Highlights the importance of communication, negotiating and self-marketing.
 * [What They Don't Tell You About Data Science 1: You Are a Software Engineer First](http://nadbordrozd.github.io/blog/2017/12/05/what-they-dont-tell-you-about-data-science-1/) - Highlighting the importance of software engineering skills for data scientists.
 * [Why Data Science Teams Need Generalists, Not Specialists](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists) - As data science is mostly about prototyping, iterating and learning on-the-fly, generalists are better suited than specialists.
 * [Bridging the Gap: from Data Science to Production](https://florianwilhelm.info/2018/07/bridging_the_gap_from_ds_to_prod/) - Advice on how to best bridge the "deployment gap" in data science.
-* [Compilation of Advice for New and Aspiring Data Scientists](https://towardsdatascience.com/compilation-of-advice-for-new-and-aspiring-data-scientists-5ea75a3925c4) - Another great collection of advice.
+* [Compilation of Advice for New and Aspiring Data Scientists](https://towardsdatascience.com/compilation-of-advice-for-new-and-aspiring-data-scientists-5ea75a3925c4) - Another great collection of advice: building human capital, choosing a company, acquiring new skills
+
+
+## Career Advice for Data Science and IT
+* [Don't Call Yourself A Programmer, And Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) - Real-world career advice for engineers and IT professionals. Highlights the importance of communication, negotiating and self-marketing.
+* [Miscellaneous unsolicited (and possibly biased) career advice](https://erikbern.com/2019/09/12/misc-unsolicited-career-advice.html) - another great collection of advice pieces
 
 
 ## Agile Practices for Data Science
@@ -34,7 +39,6 @@ Links to great data science articles or videos. Feel free to add stuff via PR.
 * [Advice for New Data Scientists](https://medium.com/airbnb-engineering/new-data-scientists-tips-for-success-5f898b6a33f3) - 4 general tips for new data scientists.
 * [Lessons from My First Two Years of AI Research](http://web.mit.edu/tslvr/www/lessons_two_years.html)
 * [Top 5 Mistakes of Greenhorn Data Scientists](https://towardsdatascience.com/top-5-mistakes-of-greenhorn-data-scientists-90fa26201d51)
-* [How I increased my impact as a data scientist with one question](https://towardsdatascience.com/how-i-increased-my-impact-as-a-data-scientist-with-one-question-d0417a1b10cb) - Ask stakeholders: “Imagine we’ve done all the hard work and developed a perfect solution. What will you do with it?”
 
 
 ## Navigating Corporate Politics
@@ -48,6 +52,7 @@ Links to great data science articles or videos. Feel free to add stuff via PR.
 How internal self-awareness, external self-awareness, and personal accountability can improve team dynamics.
 * [How to Develop the Five Soft Skills That Will Make You a Great Analyst](https://mode.com/blog/how-to-develop-the-five-soft-skills-that-will-make-you-a-great-analyst) - 5 points with advice on self-evaluation and improvement.
 * [How to Work With Stakeholders as a Data Scientist](https://towardsdatascience.com/how-to-work-with-stakeholders-as-a-data-scientist-13a1769c8152) - On communication, expectation management and other important topics when working with stakeholders.
+* [How I increased my impact as a data scientist with one question](https://towardsdatascience.com/how-i-increased-my-impact-as-a-data-scientist-with-one-question-d0417a1b10cb) - Ask stakeholders: “Imagine we’ve done all the hard work and developed a perfect solution. What will you do with it?”
 
 
 ## Presentation Skills
