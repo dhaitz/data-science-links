@@ -8,11 +8,13 @@ Links to great data science articles or videos. Feel free to add stuff via PR.
 - [Agile Practices for Data Science](#agile-practices-for-data-science)
 - [Lessons Learned](#lessons-learned)
 - [Navigating Corporate Politics](#navigating-corporate-politics)
-- [About Social Skills](#about-social-skills)
+- [Soft Skills](#soft-skills)
+- [Presentation Skills](#presentation-skills)
+- [Business Acumen](#business-acumen)
 - [Technical and Machine Learning Advice](#technical-and-machine-learning-advice)
 
 
-## General Advice on Data Science and IT
+## General Advice on Data Science
 * [What They Don't Tell You About Data Science 1: You Are a Software Engineer First](http://nadbordrozd.github.io/blog/2017/12/05/what-they-dont-tell-you-about-data-science-1/) - Highlighting the importance of software engineering skills for data scientists.
 * [Why Data Science Teams Need Generalists, Not Specialists](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists) - As data science is mostly about prototyping, iterating and learning on-the-fly, generalists are better suited than specialists.
 * [Bridging the Gap: from Data Science to Production](https://florianwilhelm.info/2018/07/bridging_the_gap_from_ds_to_prod/) - Advice on how to best bridge the "deployment gap" in data science.
