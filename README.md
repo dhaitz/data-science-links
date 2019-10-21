@@ -24,6 +24,7 @@ Links to great data science articles or videos. Feel free to add stuff via PR.
 ## Career Advice for Data Science and IT
 * [Don't Call Yourself A Programmer, And Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/) - Real-world career advice for engineers and IT professionals. Highlights the importance of communication, negotiating and self-marketing.
 * [Miscellaneous unsolicited (and possibly biased) career advice](https://erikbern.com/2019/09/12/misc-unsolicited-career-advice.html) - another great collection of advice pieces
+* [So Good They Can't Ignore You](https://commoncog.com/blog/so-good-they-cant-ignore-you/) - This article is actually a summary of Cal Newport's book of the same name. In it, he argues that "following your passion" rarely leads to job satisfaction. Instead, mastering a rare and valuable skill will build 'career capital': If you're really good at what you do, you'll feel *competent* and you're typically granted *autonomy*, both key factors for occupational happiness. Therefore, pick a career path where you can deliberately improve your skills and aim to be the world-best at what you do.
 
 
 ## Agile Practices for Data Science
