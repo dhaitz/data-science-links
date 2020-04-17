@@ -74,3 +74,4 @@ How internal self-awareness, external self-awareness, and personal accountabilit
 * [Machine Learning: The High Interest Credit Card of Technical Debt ](https://ai.google/research/pubs/pub43146) - The famous Google paper on technical debt in machine learning systems.
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) - 43 rules for implementing ML products.
 * [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/publication/software-engineering-for-machine-learning-a-case-study/) - Survey results from Microsoft's AI practicioners, including best practices.
+* [Software Engineering for Data Scientists - Small Big Data: large data on a single computer](https://pythonspeed.com/datascience) - Several guides on how to reduce memory usage with e.g. pandas.
