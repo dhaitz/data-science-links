@@ -1,4 +1,5 @@
-# data-science-links
+# Data Science Links
+
 Links to great data science articles or videos. Feel free to add stuff via PR [here](https://github.com/dhaitz/data-science-links).
 
 **Contents**
