@@ -13,6 +13,7 @@ Links to great data science articles or videos. Feel free to add stuff via PR [h
 - [Presentation Skills](#presentation-skills)
 - [Business Acumen](#business-acumen)
 - [Technical and Machine Learning Advice](#technical-and-machine-learning-advice)
+- [Blogs and Info Sources](#blogs-and-info-sources)
 
 
 ## General Advice on Data Science
@@ -76,3 +77,9 @@ How internal self-awareness, external self-awareness, and personal accountabilit
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) - 43 rules for implementing ML products.
 * [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/publication/software-engineering-for-machine-learning-a-case-study/) - Survey results from Microsoft's AI practicioners, including best practices.
 * [Software Engineering for Data Scientists - Small Big Data: large data on a single computer](https://pythonspeed.com/datascience) - Several guides on how to reduce memory usage with e.g. pandas.
+
+
+## Blogs and Info Sources
+* [inovex Analytivs Blog](https://www.inovex.de/blog/category/analytics/)
+* [codecentric Data Blog (in German)](https://blog.codecentric.de/category/data/)
+* [Reddit Data Science Forum](https://reddit.com/r/datascience/) - Also: Reddit forums for [data visualization](https://reddit.com/r/dataisbeautiful/) and [machine learning](https://reddit.com/r/MachineLearning/).
