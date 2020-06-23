@@ -21,6 +21,8 @@ Links to great data science articles or videos. Feel free to add stuff via pull 
 * [Why Data Science Teams Need Generalists, Not Specialists](https://hbr.org/2019/03/why-data-science-teams-need-generalists-not-specialists) - As data science is mostly about prototyping, iterating and learning on-the-fly, generalists are better suited than specialists.
 * [Bridging the Gap: from Data Science to Production](https://florianwilhelm.info/2018/07/bridging_the_gap_from_ds_to_prod/) - Advice on how to best bridge the "deployment gap" in data science.
 * [Compilation of Advice for New and Aspiring Data Scientists](https://towardsdatascience.com/compilation-of-advice-for-new-and-aspiring-data-scientists-5ea75a3925c4) - Another great collection of advice: building human capital, choosing a company, acquiring new skills
+* [How can Data Scientists survive layoffs?](https://peadarcoyle.com/2020/04/26/how-can-data-scientists-survive-layoffs/) – How to make data science achieve a real business impact 
+* [How do we deliver Data Science in the Enterprise](https://peadarcoyle.com/2017/08/07/how-do-we-deliver-data-science-in-the-enterprise/) – How to overcome the challenges data science teams face often in an established enterprise
 
 
 ## Career Advice for Data Science and IT
