@@ -52,7 +52,7 @@ Links to great data science articles or videos. Feel free to add stuff via pull 
 * [The most difficult thing in data science: politics](https://www.rdisorder.eu/2017/09/13/most-difficult-thing-data-science-politics/) - How to navigate corporate politics as a data scientist.
 * [How To Survive Corporate Politics as A Data Scientist](https://towardsdatascience.com/how-to-survive-corporate-politics-as-a-data-scientist-ba914fac2471) - 30 tips.
 * [Your Data Science Project Will Fail Unless It Meets These 3 Conditions](https://towardsdatascience.com/3-conditions-for-data-science-project-success-e31d3a798ec2) - Rules for successful data science projects in a corporate environment.
-
+* [Eiffel's Tower](https://www.youtube.com/watch?v=dLPi4lfk8is) – At the example of the Eiffel Tower's construction, Nickolas Means illustrates the importance of politics in engineering. But "Every organization is political" doesn't mean you have to participate in scheming and backstabbing. For healthy politics, reframe *Networking* as *Making Friends*, *Self-Promotion* as *Telling Stories* and  *Negotiation* as *Cooperation*. As an engineering manager, rather than assuming the role of *shit umbrella* and protecting your team from all politics, be a *heat shield* that takes the pressure off your team if it becomes overwhelming.
 
 ## Soft Skills
 * [To Improve Your Team, First Work on Yourself](https://hbr.org/2019/01/to-improve-your-team-first-work-on-yourself) -
