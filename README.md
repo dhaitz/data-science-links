@@ -81,6 +81,7 @@ How internal self-awareness, external self-awareness, and personal accountabilit
 * [Software Engineering for Machine Learning: A Case Study](https://www.microsoft.com/en-us/research/publication/software-engineering-for-machine-learning-a-case-study/) - Survey results from Microsoft's AI practicioners, including best practices.
 * [Software Engineering for Data Scientists - Small Big Data: large data on a single computer](https://pythonspeed.com/datascience) - Several guides on how to reduce memory usage with e.g. pandas.
 * [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists) - From messy notebook prototyping to production-ready code. The author also created [Clean Code concepts adapted for machine learning and data science](https://github.com/davified/clean-code-ml), including a [video series](https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2IkwR&index=2).
+* [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/) – Common color mistakes and how to avoid them.
 
 
 ## Blogs and Info Sources
