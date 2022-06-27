@@ -13,6 +13,7 @@ Links to great data science articles or videos. Feel free to add stuff via pull 
 - [Presentation Skills](#presentation-skills)
 - [Business Acumen](#business-acumen)
 - [Technical and Machine Learning Advice](#technical-and-machine-learning-advice)
+- [Software Engineering Lessons Learned](#software-engineering-lessons-learned)
 - [Blogs and Info Sources](#blogs-and-info-sources)
 
 
@@ -83,6 +84,11 @@ How internal self-awareness, external self-awareness, and personal accountabilit
 * [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists) - From messy notebook prototyping to production-ready code. The author also created [Clean Code concepts adapted for machine learning and data science](https://github.com/davified/clean-code-ml), including a [video series](https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2IkwR&index=2).
 * [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/) – Common color mistakes and how to avoid them.
 
+
+## Software Engineering Lessons Learned
+* [Individual Contributor prinicples from 25 years in software development](https://github.com/threddyrex/docs/blob/main/ic-principles.md)
+* [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
+* [What I’ve Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
 
 ## Blogs and Info Sources
 * [inovex Analytivs Blog](https://www.inovex.de/blog/category/analytics/)
