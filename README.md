@@ -56,6 +56,7 @@ Links to great data science articles or videos. Feel free to add stuff via pull 
 * [How to Increase Your Influence at Work](https://hbr.org/2018/02/how-to-increase-your-influence-at-work) 
 * [Eiffel's Tower](https://www.youtube.com/watch?v=dLPi4lfk8is) – At the example of the Eiffel Tower's construction, Nickolas Means illustrates the importance of politics in engineering. But "Every organization is political" doesn't mean you have to participate in scheming and backstabbing. For healthy politics, reframe *Networking* as *Making Friends*, *Self-Promotion* as *Telling Stories* and  *Negotiation* as *Cooperation*. As an engineering manager, rather than assuming the role of *shit umbrella* and protecting your team from all politics, be a *heat shield* that takes the pressure off your team if it becomes overwhelming.
 * [Failed "Squad Goals"](https://www.jeremiahlee.com/posts/failed-squad-goals/) - Spotify doesn’t use “the Spotify model” and neither should you.
+* [The Hierarchy Is Bullshit (And Bad For Business)](https://charity.wtf/2022/09/23/the-hierarchy-is-bullshit-and-bad-for-business/) - About perceiving the corporate hierarchy as a neutral data structure instead of a dominance ladder
 
 ## Soft Skills
 * [To Improve Your Team, First Work on Yourself](https://hbr.org/2019/01/to-improve-your-team-first-work-on-yourself) -
