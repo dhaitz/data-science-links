@@ -92,6 +92,8 @@ How internal self-awareness, external self-awareness, and personal accountabilit
 * [20 Things I’ve Learned in my 20 Years as a Software Engineer](https://www.simplethread.com/20-things-ive-learned-in-my-20-years-as-a-software-engineer/)
 * [What I’ve Learned in 45 Years in the Software Industry](https://www.bti360.com/what-ive-learned-in-45-years-in-the-software-industry/)
 * [Software engineering practices](https://simonwillison.net/2022/Oct/1/software-engineering-practices)
+* [One Way Smart Developers Make Bad Strategic Decisions](https://earthly.dev/blog/see-state/) – Why top-down standardization efforts and one-size-fits-all solutions often fail
+* [Don’t Feed the Thought Leaders](https://earthly.dev/blog/thought-leaders/) – About the value of contingent, context-specific advice
 
 
 ## Blogs and Info Sources
