@@ -86,6 +86,17 @@ How internal self-awareness, external self-awareness, and personal accountabilit
 * [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists) - From messy notebook prototyping to production-ready code. The author also created [Clean Code concepts adapted for machine learning and data science](https://github.com/davified/clean-code-ml), including a [video series](https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2IkwR&index=2).
 * [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/) – Common color mistakes and how to avoid them.
 
+### Specific areas and tools
+
+#### git
+- [Modern Git Commands and Features You Should Be Using](https://martinheinz.dev/blog/109): git switch, restore, sparse checkout, worktree and bisect explained 
+- [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
+
+#### Code Reviews
+- [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/) ([Part 2](https://mtlynch.io/human-code-reviews-2/)) and [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/) focus on the human-interaction part of code reviews
+- [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/) points out which software aspects we should (or should not) focus on
+
+
 
 ## Software Engineering Lessons Learned
 * [Individual Contributor prinicples from 25 years in software development](https://github.com/threddyrex/docs/blob/main/career-principles.md)
