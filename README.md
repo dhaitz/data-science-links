@@ -85,6 +85,7 @@ How internal self-awareness, external self-awareness, and personal accountabilit
 * [Software Engineering for Data Scientists - Small Big Data: large data on a single computer](https://pythonspeed.com/datascience) - Several guides on how to reduce memory usage with e.g. pandas.
 * [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists) - From messy notebook prototyping to production-ready code. The author also created [Clean Code concepts adapted for machine learning and data science](https://github.com/davified/clean-code-ml), including a [video series](https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2IkwR&index=2).
 * [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/) – Common color mistakes and how to avoid them.
+* [Blockchain, the amazing solution for almost nothing ](https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing)
 
 ### Specific areas and tools
 
@@ -111,3 +112,5 @@ How internal self-awareness, external self-awareness, and personal accountabilit
 * [inovex Analytivs Blog](https://www.inovex.de/blog/category/analytics/)
 * [codecentric Data Blog (in German)](https://blog.codecentric.de/category/data/)
 * [Reddit Data Science Forum](https://reddit.com/r/datascience/) - Also: Reddit forums for [data visualization](https://reddit.com/r/dataisbeautiful/) and [machine learning](https://reddit.com/r/MachineLearning/).
+
+  
