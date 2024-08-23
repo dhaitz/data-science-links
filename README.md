@@ -106,6 +106,7 @@ How internal self-awareness, external self-awareness, and personal accountabilit
 * [Software engineering practices](https://simonwillison.net/2022/Oct/1/software-engineering-practices)
 * [One Way Smart Developers Make Bad Strategic Decisions](https://earthly.dev/blog/see-state/) – Why top-down standardization efforts and one-size-fits-all solutions often fail
 * [Don’t Feed the Thought Leaders](https://earthly.dev/blog/thought-leaders/) – About the value of contingent, context-specific advice
+* [Lessons learned in 35 years of making software](https://dev.jimgrey.net/2024/07/03/lessons-learned-in-35-years-of-making-software/) – About simplicity, building relationships and making your work visible
 
 
 ## Blogs and Info Sources
