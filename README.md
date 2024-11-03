@@ -71,6 +71,7 @@ How internal self-awareness, external self-awareness, and personal accountabilit
 * [On Presentations](https://www.beautiful.ai/player/-LiSV45O9K1sE8uv5oMj/On-Presentations) – Practice your storytelling skills to engage your audience.
 * [Fix Your Really Bad PowerPoint](https://www.slideshare.net/slidecomet/fix-your-really-bad-powerpoint-slidecomet-based-on-an-ebook-by-sethgodin) and [7 tips to create visual presentations](https://www.slideshare.net/EmilandDC/7-tips-to-create-visual-presentations/42-TIPSTools) - About slide design
 * [What makes a good talk?](http://www.neurotheory.ox.ac.uk/~timv/pub/TalkTips.pdf) – A one-page compilation of presentation advice
+* [A beginner’s guide to making beautiful slides for your talks](https://ines.io/blog/beginners-guide-beautiful-slides-talks/) by Ines Montani. There's also [part 2](https://ines.io/blog/beautiful-slides-talks-part-2-aesthetics/) and a [lightning talk](https://speakerdeck.com/inesmontani/lightning-talk-beautiful-slides-for-beginners)
 
 
 ## Business Acumen
