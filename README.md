@@ -87,6 +87,8 @@ How internal self-awareness, external self-awareness, and personal accountabilit
 * [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists) - From messy notebook prototyping to production-ready code. The author also created [Clean Code concepts adapted for machine learning and data science](https://github.com/davified/clean-code-ml), including a [video series](https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2IkwR&index=2).
 * [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/) – Common color mistakes and how to avoid them.
 * [Blockchain, the amazing solution for almost nothing ](https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing)
+* [https://github.com/zakirullin/cognitive-load](Cognitive Load is what matters) – Optimize your code to reduce cognitive load
+* [https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to](Write code that is easy to delete, not easy to extend)
 
 ### Specific areas and tools
 
