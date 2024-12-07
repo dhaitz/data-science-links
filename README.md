@@ -13,6 +13,10 @@ Links to great data science articles or videos. Feel free to add stuff via pull 
 - [Presentation Skills](#presentation-skills)
 - [Business Acumen](#business-acumen)
 - [Technical and Machine Learning Advice](#technical-and-machine-learning-advice)
+- [Specific areas and tools](#specific-areas-and-tools)
+  - [git](#git)
+  - [Code Reviews](#code-reviews)
+  - [GenAI & LLMs](#genai--llms)
 - [Software Engineering Lessons Learned](#software-engineering-lessons-learned)
 - [Blogs and Info Sources](#blogs-and-info-sources)
 
