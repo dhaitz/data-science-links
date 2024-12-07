@@ -100,6 +100,9 @@ How internal self-awareness, external self-awareness, and personal accountabilit
 - [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/) ([Part 2](https://mtlynch.io/human-code-reviews-2/)) and [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/) focus on the human-interaction part of code reviews
 - [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/) points out which software aspects we should (or should not) focus on
 
+#### GenAI & LLMs
+- [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/) – Simon Willison's overview talk on LLMs (August 2023)
+- [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about) – TLDR: "AI isn't making our software dramatically better because software quality was (perhaps) never primarily limited by coding speed. The hard parts of software development – understanding requirements, designing maintainable systems, handling edge cases, ensuring security and performance – still require human judgment. [...] Remember: The goal isn't to write more code faster. It's to build better software. Used wisely, AI can help us do that."
 
 
 ## Software Engineering Lessons Learned
