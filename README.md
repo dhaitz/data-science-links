@@ -99,6 +99,7 @@ How internal self-awareness, external self-awareness, and personal accountabilit
 #### git
 - [Modern Git Commands and Features You Should Be Using](https://martinheinz.dev/blog/109): git switch, restore, sparse checkout, worktree and bisect explained 
 - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
+- [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
 
 #### Code Reviews
 - [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/) ([Part 2](https://mtlynch.io/human-code-reviews-2/)) and [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/) focus on the human-interaction part of code reviews
