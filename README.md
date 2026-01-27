@@ -14,6 +14,8 @@ Links to great data science articles or videos. Feel free to add stuff via pull 
 - [Business Acumen](#business-acumen)
 - [Technical and Machine Learning Advice](#technical-and-machine-learning-advice)
 - [Specific areas and tools](#specific-areas-and-tools)
+  - [Simplicity](#simplicity)
+  - [Cognitive Load](#cognitive-load)
   - [git](#git)
   - [Code Reviews](#code-reviews)
   - [GenAI & LLMs](#genai--llms)
@@ -91,10 +93,16 @@ How internal self-awareness, external self-awareness, and personal accountabilit
 * [Coding habits for data scientists](https://www.thoughtworks.com/insights/blog/coding-habits-data-scientists) - From messy notebook prototyping to production-ready code. The author also created [Clean Code concepts adapted for machine learning and data science](https://github.com/davified/clean-code-ml), including a [video series](https://www.youtube.com/watch?v=Edn6XxWmtEs&list=PLO9pkowc_99ZhP2yuPU8WCfFNYEx2IkwR&index=2).
 * [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/) – Common color mistakes and how to avoid them.
 * [Blockchain, the amazing solution for almost nothing ](https://thecorrespondent.com/655/blockchain-the-amazing-solution-for-almost-nothing)
-* [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load) – Optimize your code to reduce cognitive load
-* [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 
 ### Specific areas and tools
+
+#### Simplicity
+* [Write code that is easy to delete, not easy to extend](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
+* [What's the simplest possible thing that might work, and why didn't you try that first?](https://www.youtube.com/watch?v=MW9oVxjJHEw) – NormConf talk by Joel Grus. "Simple means simple to use", via abstracting complexity away
+
+#### Cognitive Load
+* [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load) – Optimize your code to reduce cognitive load
+* [The 7 deadly sins of engineering productivity](https://strategizeyourcareer.com/p/the-7-deadly-sins-of-software-engineers-productivity) – about context switching, "urgent" requests and decision fatigue
 
 #### git
 - [Modern Git Commands and Features You Should Be Using](https://martinheinz.dev/blog/109): git switch, restore, sparse checkout, worktree and bisect explained 
