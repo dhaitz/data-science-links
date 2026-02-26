@@ -16,7 +16,7 @@ Links to great data science articles or videos. Feel free to add stuff via pull 
 - [Specific areas and tools](#specific-areas-and-tools)
   - [Simplicity](#simplicity)
   - [Cognitive Load](#cognitive-load)
-  - [git](#git)
+  - [Data Science Environment](#data-science-environment)
   - [Code Reviews](#code-reviews)
   - [GenAI & LLMs](#genai--llms)
 - [Software Engineering Lessons Learned](#software-engineering-lessons-learned)
@@ -104,10 +104,12 @@ How internal self-awareness, external self-awareness, and personal accountabilit
 * [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load) – Optimize your code to reduce cognitive load
 * [The 7 deadly sins of engineering productivity](https://strategizeyourcareer.com/p/the-7-deadly-sins-of-software-engineers-productivity) – about context switching, "urgent" requests and decision fatigue
 
-#### git
-- [Modern Git Commands and Features You Should Be Using](https://martinheinz.dev/blog/109): git switch, restore, sparse checkout, worktree and bisect explained 
-- [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
-- [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
+#### Data Science Environment
+- [xonsh shell](https://github.com/xonsh/xonsh) - A Python-powered shell that enables integration, management and orchestration of data science libraries and build pipelines, code and command-based workflows. It can also be used as a kernel for Jupyter Notebook.
+- [Git](https://git-scm.com/)
+  - [Modern Git Commands and Features You Should Be Using](https://martinheinz.dev/blog/109): git switch, restore, sparse checkout, worktree and bisect explained 
+  - [Popular git config options](https://jvns.ca/blog/2024/02/16/popular-git-config-options/)
+  - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
 
 #### Code Reviews
 - [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/) ([Part 2](https://mtlynch.io/human-code-reviews-2/)) and [Code Review Guidelines for Humans](https://phauer.com/2018/code-review-guidelines/) focus on the human-interaction part of code reviews
