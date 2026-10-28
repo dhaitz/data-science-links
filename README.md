@@ -19,6 +19,7 @@ Links to great data science articles or videos. Feel free to add stuff via pull 
   - [git](#git)
   - [Code Reviews](#code-reviews)
   - [GenAI & LLMs](#genai--llms)
+  - [Agentic Engineering](#agentic-engineering)
 - [Software Engineering Lessons Learned](#software-engineering-lessons-learned)
 - [Blogs and Info Sources](#blogs-and-info-sources)
 
@@ -117,6 +118,9 @@ How internal self-awareness, external self-awareness, and personal accountabilit
 - [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/) – Simon Willison's overview talk on LLMs (August 2023)
 - [The 70% problem: Hard truths about AI-assisted coding](https://addyo.substack.com/p/the-70-problem-hard-truths-about) – TLDR: "AI isn't making our software dramatically better because software quality was (perhaps) never primarily limited by coding speed. The hard parts of software development – understanding requirements, designing maintainable systems, handling edge cases, ensuring security and performance – still require human judgment. [...] Remember: The goal isn't to write more code faster. It's to build better software. Used wisely, AI can help us do that."
 
+#### Agentic Engineering
+- [if your team is too busy doing their 'normal job' to experiment with AI, you're preparing them to be replaced](https://ghuntley.com/replaced/) – how to best adapt to the new world of agentic development
+- [We are all Product Engineers now](https://seldo.com/posts/we-are-all-product-engineers-now/) – how the role of "software developer" is changed by agentic coding
 
 ## Software Engineering Lessons Learned
 * [Individual Contributor prinicples from 25 years in software development](https://github.com/threddyrex/docs/blob/main/career-principles.md)
